@@ -32,10 +32,10 @@
 - yarn dev
 
 # :earth_americas:	Access
-> Access the URLs below to access the visual part. [_baseURl] -> http://localhost:3333
+> Access the URLs below to access the visual part. _baseURl -> http://localhost:3333
 
-- [_baseURl]/pages/client
-- [_baseURl]/pages/admin
+- _baseURL/pages/client
+- _baseURL/pages/admin
 
 # :memo: License
 [MIT license](https://opensource.org/licenses/MIT).
